@@ -1,5 +1,5 @@
 ---
-title: A post page
+title: Pencola page
 date: 2018-03-21
 ---
 
@@ -16,5 +16,3 @@ It looks like this:
   "templateEngineOverride": "njk,md"
 }
 ```
-
-
